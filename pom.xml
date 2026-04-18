@@ -28,15 +28,17 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-    
+
+<!--Added the distribution management section to specify the repository for releases and snapshots-->
+
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://34.204.197.215:8081/repository/hello-world-java/</url>
+			<url>http://184.73.136.35:8081/repository/rushitech-maven-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://34.204.197.215:8081/repository/hello-world-java-snapshot/</url>
+			<url>http://184.73.136.35:8081/repository/rushitech-maven-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
