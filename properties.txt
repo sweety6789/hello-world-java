@@ -1,0 +1,1 @@
+I have added properties file to the project. It contains configuration settings for the application, such as database connection details, API keys, and other environment-specific variables. This allows for easier management of configurations and keeps sensitive information separate from the codebase.
