@@ -30,13 +30,13 @@
     
 	<distributionManagement>
 		<repository>
-			<id>nexus</id>
-			<url>http://65.0.128.218:8081/repository/hello-world-java/</url>
-		</repository>
-		<snapshotRepository>
-			<id>nexus</id>
-			<url>http://65.0.128.218:8081/repository/hello-world-java-snapshot/</url>
-		</snapshotRepository>
+            <id>nexus</id>
+            <url>http://18.208.115.89:8081/repository/rushitech-maven-release/</url>
+        </repository>
+        <snapshotRepository>
+            <id>nexus</id>
+            <url>http://18.208.115.89:8081/repository/rushitech-maven-snapshot/</url>
+        </snapshotRepository>
 	</distributionManagement>
 
 	<build>
