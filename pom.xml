@@ -6,7 +6,7 @@
 	<groupId>com.rt</groupId>
 	<artifactId>hello-world-java</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>hello-world-java</name>
 	<url>https://www.rushitechnologies.com</url>
 	<description>Java  Standalone Application</description>
